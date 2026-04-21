@@ -1,6 +1,0 @@
-opencv-python
-torch
-torchvision
-ultralytics
-requests
-python-dotenv
